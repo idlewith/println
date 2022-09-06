@@ -1,4 +1,4 @@
 
 
-def println():
+def hello():
     print('1')
